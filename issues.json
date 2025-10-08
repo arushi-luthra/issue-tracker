@@ -1,5 +1,5 @@
 {
-  "nextId": 5,
+  "nextId": 6,
   "issues": [
     {
       "id": 1,
@@ -66,6 +66,15 @@
           "createdAt": "2025-10-08T04:30:21.758Z"
         }
       ]
+    },
+    {
+      "id": 5,
+      "title": "ui issue",
+      "description": "issue in ui",
+      "status": "Open",
+      "createdBy": "rajat",
+      "createdAt": "2025-10-08T04:58:41.454Z",
+      "comments": []
     }
   ]
 }
