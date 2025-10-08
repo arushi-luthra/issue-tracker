@@ -1,0 +1,15 @@
+body { font-family: system-ui, Arial; background:#f7f7f8; color:#222; }
+.container { max-width: 980px; margin: 24px auto; padding: 16px; background: #fff; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.06); }
+h1 { margin: 0 0 12px 0; }
+.forms { margin-bottom: 16px; }
+#new-issue-form { display: grid; grid-template-columns: 1fr 200px; gap:8px; align-items: start; }
+#new-issue-form textarea { grid-column: 1 / span 2; min-height: 60px; }
+#new-issue-form input, #new-issue-form textarea { padding:8px; border:1px solid #ddd; border-radius:6px; }
+#issues-table { width:100%; border-collapse: collapse; }
+#issues-table th, #issues-table td { padding:8px 10px; border-bottom:1px solid #eee; vertical-align: top; }
+#issues-table th { text-align: left; }
+.details { font-size: 0.9rem; }
+.comment-form { margin-top:8px; display:flex; gap:6px; }
+.comment-form input { flex:1; }
+button { padding:8px 10px; border-radius:6px; border: none; background:#2563eb; color: #fff; cursor:pointer; }
+button:disabled { opacity:0.6; }
