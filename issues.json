@@ -1,5 +1,5 @@
 {
-  "nextId": 4,
+  "nextId": 5,
   "issues": [
     {
       "id": 1,
@@ -51,6 +51,15 @@
           "createdAt": "2025-10-08T04:16:27.425Z"
         }
       ]
+    },
+    {
+      "id": 4,
+      "title": "another issue",
+      "description": "please fix this bug",
+      "status": "Open",
+      "createdBy": "rahul",
+      "createdAt": "2025-10-08T04:29:39.707Z",
+      "comments": []
     }
   ]
 }
