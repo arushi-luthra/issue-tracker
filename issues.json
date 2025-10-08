@@ -59,7 +59,13 @@
       "status": "Open",
       "createdBy": "rahul",
       "createdAt": "2025-10-08T04:29:39.707Z",
-      "comments": []
+      "comments": [
+        {
+          "author": "mno",
+          "text": "let me try",
+          "createdAt": "2025-10-08T04:30:21.758Z"
+        }
+      ]
     }
   ]
 }
